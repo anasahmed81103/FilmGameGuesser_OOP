@@ -1,0 +1,54 @@
+Iconic yellow circular character.
+Non-violent gameplay featuring maze navigation and pellet collection.
+Four colorful ghosts as enemies.
+Power pellets allowing temporary invincibility and ghost-eating.
+High-score competition and iconic arcade game status.
+"PAC-MAN"
+Fighting game released in 1987.
+Player selects a character to fight against opponents.
+Characters have unique moves and special attacks.
+Fighting takes place in a 2D environment with multiple levels.
+Popularized the fighting game genre and led to multiple sequels and adaptations.
+"Street Fighter" 
+Italian plumber and video game character created by Nintendo.
+First appeared in the 1981 game Donkey Kong as "Jumpman."
+Later starred in the hugely successful Super Mario Bros. game series.
+Often accompanied by his brother Luigi and other characters such as Princess Peach and Toad.
+Known for his signature outfit of red overalls, blue shirt, and red cap with an "M" emblem.
+"SUPER-MARIO"
+A popular endless runner game with simple controls and colorful graphics.
+Players control a character who runs through the subway, dodging obstacles and collecting coins.
+The game has various power-ups and missions that can be completed for rewards.
+There are regular updates and limited-time events that introduce new characters, locations, and challenges.
+is free to play, but players can purchase in-game currency and items with real money.
+"Subway Surfers"
+An iconic endless runner game that popularized the genre.
+Players control an explorer who runs through a temple, collecting coins and dodging obstacles.
+The game has simple swipe controls and features power-ups and objectives to keep players engaged.
+Temple Run has spawned multiple sequels and spin-offs, including a popular movie tie-in.
+The game is free to play, but players can purchase in-game currency and items with real money.
+"Temple Run:"
+A fast-paced endless runner game featuring the iconic Sonic the Hedgehog character.
+Players run through various levels, collecting rings and power-ups while dodging obstacles.
+The game has multiple playable characters, each with their own unique abilities.
+features boss battles and events that introduce new challenges and rewards.
+The game is free to play, but players can purchase in-game currency and items with real money.
+"Sonic Dash:"
+Falling tetrominoes.
+Allow Rotating tetrominoes.
+Involve Clearing lines.
+Allow Increasing speed.
+Game over when the stack reaches the top.
+"Tetris"
+Run and gun arcade game released in 1996.
+Players control soldiers as they fight through levels filled with enemy soldiers, tanks, and helicopters.
+Features both on-foot and vehicle-based gameplay.
+Known for its fast-paced action and colorful, detailed graphics.
+Has spawned numerous sequels and spin-off games.
+"Metal Slug"
+Arcade game released in 1981 by Nintendo.
+Players control "Jumpman" (later renamed "Mario") as he climbs platforms and ladders to rescue his girlfriend from the clutches of the titular Donkey Kong.
+Features four levels, each with unique obstacles and enemies.
+Pioneered the platformer genre and established Nintendo as a major player in the video game industry.
+Spawned numerous sequels and adaptations featuring Mario and Donkey Kong
+"Donkey Kong"

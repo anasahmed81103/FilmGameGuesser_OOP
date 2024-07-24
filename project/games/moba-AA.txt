@@ -1,0 +1,78 @@
+Developed by Riot Games in 2009.
+Features a variety of game modes, including Summoner's Rift, ARAM, and Twisted Treeline.
+Players choose from a large roster of champions, each with their own unique abilities and playstyles.
+Has a large and active esports scene with international tournaments and professional teams.
+One of the most popular games in the world with a dedicated player base.
+"League of Legends"
+Developed by Valve Corporation in 2013.
+Features a variety of game modes, including All Pick, Single Draft, and Random Draft.
+Players choose from a large roster of heroes, each with their own unique abilities and playstyles.
+Has a large and active esports scene with international tournaments and professional teams.
+Considered one of the most challenging and complex MOBAs, with a high skill ceiling.
+"Dota 2"
+Developed by Blizzard Entertainment in 2015.
+Features a variety of game modes, including Quick Match, Ranked Play, and Brawl.
+Players choose from a large roster of heroes from various Blizzard franchises, such as Warcraft, Starcraft, and Diablo.
+Simplifies certain aspects of MOBAs, such as item builds and last hitting, to focus more on team fights and objectives.
+Has a more casual and beginner-friendly approach compared to other MOBAs.
+"Heroes of the Storm"
+Developed by Hi-Rez Studios in 2014.
+Features a variety of game modes, including Arena, Conquest, and Joust.
+Players choose from a large roster of gods from various mythologies, each with their own unique abilities and playstyles.
+Has a third-person perspective, which sets it apart from other MOBAs.
+Focuses on skill shots and positioning, making it a more action-packed and dynamic experience.
+"Smite"
+Developed by Moonton in 2016.
+Features a variety of game modes, including Classic, Ranked, and Brawl.
+Players choose from a large roster of heroes, each with their own unique abilities and playstyles.
+Designed specifically for mobile devices, with intuitive touch controls and shorter game times.
+One of the most popular mobile MOBAs in the world.
+"Mobile Legends: Bang Bang"
+Popular MMORPG with a huge player base.
+Fantasy setting with a rich lore and varied races and classes.
+Extensive character customization and leveling system.
+Large open world with challenging dungeons and raids.
+Social elements, including guilds and player vs. player combat.
+"World of Warcraft:"
+Popular MMORPG with a focus on story and characters.
+Set in the Final Fantasy universe with familiar elements like chocobos and summons.
+Flexible class system that allows players to switch between jobs.
+Engaging story-driven quests with frequent updates and expansions.
+Beautiful graphics and music.
+"Final Fantasy XIV:"
+MMORPG with an emphasis on dynamic events and exploration.
+Fantasy setting with a unique world and lore.
+No subscription fee and a fair cash shop model.
+Engaging player vs. player combat with large-scale battles.
+Personal storylines that affect the game world.
+"Guild Wars 2:"
+Sci-fi MMORPG with a player-driven economy and politics.
+Massive open world with a realistic physics engine.
+Player-run corporations and alliances with complex relationships.
+Deep crafting and mining systems.
+High-stakes player vs. player combat with the potential for large-scale battles.
+"EVE Online:"
+MMORPG set in the world of the popular Elder Scrolls single-player games.
+Vast open world with many areas to explore.
+Flexible character progression system with multiple skill lines.
+Engaging storylines that can be played solo or with others.
+Varied player vs. player options, including large-scale battles and duels.
+"The Elder Scrolls Online:"
+Developed by Super Evil Megacorp in 2014.
+Features a variety of game modes, including Casual, Ranked, and Blitz.
+Players choose from a large roster of heroes, each with their own unique abilities and playstyles.
+Designed specifically for mobile devices, with touch controls optimized for fast-paced gameplay.
+Has a dedicated following and competitive scene, with regional and international tournaments.
+"Vainglory"
+Developed by Tencent Games in 2016.
+Features a variety of game modes, including 5v5, 3v3, and Hook Wars.
+Players choose from a large roster of heroes, each with their own unique abilities and playstyles.
+Designed specifically for mobile devices, with intuitive touch controls and shorter game times.
+One of the most popular mobile MOBAs in Asia, with a growing player base in other regions.
+"Arena of Valor"
+Developed by S2 Games in 2015.
+Features a variety of game modes, including Classic, Bots, and Ranked.
+Players choose from a large roster of heroes, each with their own unique abilities and playstyles.
+Focuses on minimizing toxicity and promoting positive gameplay experiences, with features such as a karma system and helpful tips.
+Has a smaller but dedicated community of players who appreciate its unique approach to MOBA
+"Strife"

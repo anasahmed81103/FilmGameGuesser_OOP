@@ -1,0 +1,5 @@
+﻿  project.cpp
+D:\anas\uni\semester 2\OOP Lab\k224154_k224502_k224563\project\project\project.cpp(1035,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\anas\uni\semester 2\OOP Lab\k224154_k224502_k224563\project\project\project.cpp(1057,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\anas\uni\semester 2\OOP Lab\k224154_k224502_k224563\project\project\project.cpp(631): warning C4715: 'scifi::askQ': not all control paths return a value
+  project.vcxproj -> D:\anas\uni\semester 2\OOP Lab\k224154_k224502_k224563\project\x64\Debug\project.exe

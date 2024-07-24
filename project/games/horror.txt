@@ -1,0 +1,108 @@
+Third-person survival horror game featuring a blond hero.
+Set in a rural village in Europe.
+Features a variety of enemies, including zombie-like creatures.
+Introduces new gameplay mechanics, such as the ability to upgrade weapons.
+Received critical acclaim and is considered one of the best games of all time.
+Resident Evil 4:
+Co-op survival horror game.
+Set in Africa and follows series protagonist Chris Redfield.
+Introduces new gameplay mechanics, such as the ability to move while shooting.
+Received mixed reviews upon release but has since gained a cult following.
+Features a bonus mode called "Mercenaries" where players try to survive against waves of enemies.
+Resident Evil 5:
+Features multiple campaigns, each following a different character.
+Set in various locations around the world, including China and the United States.
+Introduces new gameplay mechanics, such as the ability to slide and roll.
+Received mixed reviews upon release due to its focus on action over horror.
+Features a bonus mode called "Mercenaries" where players try to survive against waves of enemies.
+Resident Evil 6:
+Cooperative first-person shooter set in a zombie apocalypse with multiple zombies such as tank.
+Story-driven campaign with five unique campaigns to play through.
+Gameplay focuses on teamwork, communication, and strategic use of weapons and resources with 4 players
+AI Director system dynamically changes gameplay based on player performance.
+Features a "Versus" mode where players can play as both humans and special infected zombies.
+"Left 4 Dead :"
+Sequel , with improved graphics and gameplay mechanics.
+New survivors and special infected zombies, as well as new weapons and items.
+Features a new campaign set in the American South, as well as remastered versions of the original campaigns.
+Introduces a "Scavenge" mode where players must collect gas cans to fuel a generator.
+Includes a "Mutations" mode that allows for custom game modes and rule sets.
+"Left 4 Dead 2:"
+Navigate an insane asylum armed only with a camcorder.
+Use the camera's night vision to see in the dark.
+Hide from and avoid enemies while trying to uncover the asylum's dark secrets.
+Limited resources add to the game's tension.
+Sequel Outlast 2 features a different setting and story.
+Outlast
+Explore the foggy, ominous town of Silent Hill.
+Discover the disturbing story of protagonist James Sunderland.
+Face off against grotesque monsters, each with their own symbolism and backstory.
+Multiple endings based on player choices.
+Regarded as a classic of the horror genre.
+Silent Hill 2
+Switch from third to first-person perspective for added immersion.
+Explore a dilapidated mansion and its surroundings in Louisiana.
+Confront terrifying enemies and solve puzzles to uncover the game's mystery.
+A departure from the series' action-oriented gameplay.
+Support for VR heightens the game's scares.
+Resident Evil 7: Biohazard
+Take on the role of engineer Isaac Clarke and fight off alien creatures on a derelict spaceship.
+Use the game's unique dismemberment mechanics to take down enemies.
+Solve puzzles to progress through the ship's levels.
+A sequel and prequel further explore the game's universe.
+Known for its intense atmosphere and jump scares.
+Dead Space
+Survival horror game with point-and-click mechanics.
+Set in a fictional pizza restaurant called Freddy Fazbear's Pizza.
+Player must survive five nights while working as a security guard by managing limited resources and monitoring security cameras.
+Features animatronic characters that become active at night and attempt to kill the player.
+Known for its jump scares and unique lore that has spawned numerous sequels and spin-offs.
+Five Nights at Freddy's:
+Set 15 years after the events of the first Alien film.
+Play as Amanda Ripley, daughter of Ellen Ripley, as she navigates a space station under siege by a single alien.
+Use stealth and crafting to avoid or confront the alien.
+Atmospheric sound design adds to the game's tension.
+Regarded as one of the best horror games of the last decade.
+Alien: Isolation
+Play as Daniel, an amnesiac exploring a dark castle.
+Use stealth and puzzle-solving to progress through the game's story.
+Avoid the game's main enemy, "The Shadow," to survive.
+Regarded as a pioneer of the modern horror game.
+Sequel Amnesia: A Machine for Pigs changes setting and gameplay mechanics.
+Amnesia: The Dark Descent
+Explore the twisted mind of a painter as you traverse his ever-changing mansion.
+Solve puzzles to unlock new areas and uncover the story.
+Creative use of sound and visual effects to disorient the player.
+Multiple endings based on player choices.
+Sequel Layers of Fear 2 features a different story and setting.
+Layers of Fear
+Play as eight different characters in an interactive horror movie.
+Make choices that affect the story's outcome and which characters survive.
+High production values, with motion capture performances by recognizable actors.
+Inspired by classic horror movie tropes.
+A sequel is currently in development.
+Until Dawn
+Created by Resident Evil creator Shinji Mikami.
+Follows detective Sebastian Castellanos as he investigates a string of murders.
+Takes place in a twisted alternate reality.
+Creative use of enemy design and puzzle-solving.
+Sequel The Evil Within 2 adds open-world elements and further explores the game's story.
+The Evil Within
+Use a camera obscura to exorcise ghosts haunting a Japanese village.
+Story follows twin sisters Mio and Mayu as they uncover the village's dark history.
+Creative use of camera mechanics and sound design to create tension.
+Regarded as one of the scariest games of all time.
+Part of a long-running horror franchise.
+Fatal Frame II: Crimson Butterfly
+Post-apocalyptic third-person survival horror game.
+Set in the United States after a fungal pandemic has wiped out most of humanity.
+Features a focus on story and character development.
+Gameplay includes elements of stealth and resource management.
+Received critical acclaim and is considered one of the best games of all time.
+The Last of Us:
+Post-apocalyptic third-person action-adventure game.
+Set several years after the events of the first game.
+Features a larger focus on combat and exploration compared to the first game.
+Story follows series protagonist Ellie as she seeks revenge against those who wronged her.
+Received both critical acclaim and controversy for its storytelling and themes.
+The Last of Us Part II:

@@ -1,0 +1,129 @@
+"Counter Strike:Global Offensive"    Type: First Person(FPS) Action
+"Valorant"                        Type: First Person(FPS) Action
+"Rainbow Six Siege"             Type: First Person(FPS) Action
+"Overwatch"               Type: First Person(FPS) Action
+"Call of Duty: Modern Warfare"             Type: First Person(FPS) Action
+"Left 4 Dead :"                 Type: First Person(FPS) Action
+"Left 4 Dead 2:"               Type: First Person(FPS) Action
+"Battlefield V"                       Type: First Person(FPS) Action
+"Team Fortress 2"                 Type: First Person(FPS) Action
+"Titanfall 2"                   Type: First Person(FPS) Action
+"Paladins"                          Type: First Person(FPS) Action
+"Dirty Bomb"                       Type: First Person(FPS) Action
+"Black Squad"                   Type: First Person(FPS) Action
+"Ironsight"                        Type: First Person(FPS) Action
+"League of Legends"              Type: MOBILE Action Arcade
+"Dota 2"                        Type: MOBILE Action Arcade
+"Heroes of the Storm"            Type: MOBILE Action Arcade
+"Smite"                        Type: MOBILE Action Arcade
+"Mobile Legends: Bang Bang"   Type: MOBILE Action Arcade
+"World of Warcraft:"          Type: MOBILE Action Arcade
+"Final Fantasy XIV:"               Type: MOBILE Action Arcade
+"Guild Wars 2:"                    Type: MOBILE Action Arcade
+"EVE Online:"                   Type: MOBILE Action Arcade
+"The Elder Scrolls Online:"        Type: MOBILE Action Arcade
+"Vainglory"                        Type: MOBILE Action Arcade
+"Arena of Valor"                  Type: MOBILE Action Arcade
+"Strife"                         Type: MOBILE Action Arcade
+Resident Evil 4:              Type: Horror Game
+Resident Evil 5:              Type: Horror Game
+Resident Evil 6:            Type: Horror Game
+"Left 4 Dead :"                Type: Horror Game
+"Left 4 Dead 2:"           Type: Horror Game
+Outlast                   Type: Horror Game
+Silent Hill 2                  Type: Horror Game
+Resident Evil 7: Biohazard              Type: Horror Game
+Dead Space                 Type: Horror Game
+Five Nights at Freddy's:            Type: Horror Game
+Alien: Isolation                    Type: Horror Game
+Amnesia: The Dark Descent           Type: Horror Game
+Layers of Fear                  Type: Horror Game
+Until Dawn                           Type: Horror Game
+The Evil Within                          Type: Horror Game
+Fatal Frame II: Crimson Butterfly             Type: Horror Game
+The Last of Us:                      Type: Horror Game
+The Last of Us Part II:                    Type: Horror Game
+"Forza Motorsport 7"                      Type: Racing Game
+"Forza horizon 4"                 Type: Racing Game
+"Grid AutoSport"                   Type: Racing Game
+"Asphalt 9 Legends"                Type: Racing Game
+"CSR 2"                        Type: Racing Game
+"Rush Rally"                   Type: Racing Game
+"Need for speed mostwanted"               Type: Racing Game
+"Need for Speed Unbound"                    Type: Racing Game
+"Mario Kart"                                Type: Racing Game
+"Grand turismo"                      Type: Racing Game
+"Burnout Revenge"                     Type: Racing Game
+"God Of War"                         Type: Action Adventure
+"Red Dead Redemption 2"              Type: Action Adventure
+"Devil May Cry 5"                   Type: Action Adventure
+"Grand theft Auto 5"                  Type: Action Adventure
+"The Witcher 3(Wild hunt)"           Type: Action Adventure
+"Amazing Spider Man"                    Type: Action Adventure
+"Batman Arkham Night"                 Type: Action Adventure
+"Doom Eternal"                        Type: Action Adventure
+"Farcry Series"                      Type: Action Adventure
+"Last Of Us 1"                         Type: Action Adventure
+"Last Of Us 2"                        Type: Action Adventure
+"Skyrim"                            Type: Action Adventure
+"Fallout 4"                          Type: Action Adventure
+"Genshin Impact"                     Type: Action Adventure
+"Call Of Duty Series"                       Type: Action Adventure
+"Uncharted 4: A Thief's End"                          Type: Action Adventure
+"Watch Dogs 2"                                Type: Action Adventure
+"Tomb Raider (2013)"                       Type: Action Adventure
+"ARK: Survival Evolved"                       Type: Action Adventure
+"Assassin's Creed"                        Type: Action Adventure
+"Age of Empires II: The Age of Kings"            Type: Strategy Game
+"Clash Of Clans"                  Type: Strategy Game
+"Boom Beach"                      Type: Strategy Game
+"Clash Royal"                     Type: Strategy Game
+"Civilization VI"                Type: Strategy Game
+"XCOM 2"                      Type: Strategy Game
+"Starcraft II"                   Type: Strategy Game
+"Total War: Warhammer II"                 Type: Strategy Game
+"Chess 3d"                   Type: Strategy Game
+"Company of Heroes 2"                     Type: Strategy Game
+"Europa Universalis IV"                  Type: Strategy Game
+"Homeworld Remastered Collection"                   Type: Strategy Game
+"Magic Chess"                     Type: Strategy Game
+"Portal 2:"                       Type: Strategy Game
+"Cut the Rope:"                    Type: Strategy Game
+"Among Us:"                        Type: Strategy Game
+Angry Birds:                   Type: Strategy Game
+"Candy Crush:"                       Type: Strategy Game
+"Pokemon Go:"                         Type: Strategy Game
+"Battle of Polytopia:"                        Type: Strategy Game
+"The Sims:"                          Type: Simulator Game
+"Sim City:"                        Type: Simulator Game
+"Euro Truck Simulator:"                        Type: Simulator Game
+"Microsoft Flight Simulator:"                    Type: Simulator Game
+"Ranch Simulator:"                         Type: Simulator Game
+"PAC-MAN"                      Type: Arcade Game
+"Street Fighter"                Type: Arcade Game
+"SUPER-MARIO"                   Type: Arcade Game
+"Subway Surfers"                Type: Arcade Game
+"Temple Run:"                   Type: Arcade Game
+"Sonic Dash:"                  Type: Arcade Game
+"Tetris"                       Type: Arcade Game
+"Metal Slug"                    Type: Arcade Game
+"Donkey Kong"                   Type: Arcade Game
+"Fortnite"                           Type: Battle Royale Game
+"PlayerUnknown's Battlegrounds (PUBG)"                   Type: Battle Royale Game
+"Apex Legends"                    Type: Battle Royale Game
+"Call of Duty: Warzone"                      Type: Battle Royale Game
+"PUBG Mobile"                             Type: Battle Royale Game
+"Fortnite Battle Royale Mobile"                      Type: Battle Royale Game
+"Apex Legends Mobile"                      Type: Battle Royale Game
+"Rules Of Survival"                       Type: Battle Royale Game
+"Garena Free Fire"                         Type: Battle Royale Game
+"MLB The show"                           Type: Sports Game
+"MVP Baseball"                           Type: Sports Game
+"UFC EA SPORTS"                         Type: Sports Game
+"Fifa 23"                             Type: Sports Game
+"NBA 2k22"                      Type: Sports Game
+"WWE 2k23"                             Type: Sports Game
+"PES 23"                                Type: Sports Game
+"Rocket League"                          Type: Sports Game
+"Maden NFL"                                 Type: Sports Game
+"Cricket 22"                              Type: Sports Game

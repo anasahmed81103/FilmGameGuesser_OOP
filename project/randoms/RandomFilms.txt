@@ -1,0 +1,134 @@
+the  exorcist        TYPE : plain_horror
+hereditary           TYPE : plain_horror
+The Conjurings       TYPE : plain_horror
+Insidious            TYPE : plain_horror
+Evil Dead            TYPE : plain_horror
+Paranormal Activity  TYPE : plain_horror
+The Ring             TYPE : plain_horror
+It                   TYPE : plain_horror
+Scary movie serires  TYPE : horror comedy
+American Psycho      TYPE : horror comedy
+Happy Death Day      TYPE : horror comedy
+Scream               TYPE : horror comedy
+This is the End      TYPE : horror comedy
+Zombie Land          TYPE : horror comedy
+the babysitter       TYPE : horror comedy
+goosebumps           TYPE : horror comedy
+Man from Toronto     TYPE : agent comedy
+Johnny English       TYPE : agent comedy
+Central Intelligence TYPE : agent comedy
+Red Notice           TYPE : agent comedy
+Hitman's Body Guard  TYPE : agent comedy
+Man in Black         TYPE : agent comedy
+Bad Boys for life    TYPE : agent comedy
+Rush Hour            TYPE : agent comedy
+Jumanji              TYPE : adventure comedy
+Baywatch             TYPE : adventure comedy
+free guy             TYPE : adventure comedy
+Ace Ventura pet detective   TYPE : ridiculous comedy
+Dumb and dumber             TYPE : ridiculous comedy
+The mask             TYPE : superhero comedy
+Deadpool             TYPE : superhero comedy
+Shazam               TYPE : superhero comedy
+Superhero movie      TYPE : superhero comedy
+The dictator         TYPE : political comedy
+Death of stalin      TYPE : political comedy
+Idiocracy            TYPE : political comedy
+Kung Fu Panda        TYPE : Animated comedy
+Despicable Me        TYPE : Animated comedy
+Hotel Transylvania   TYPE : Animated comedy
+Puss in Boots        TYPE : Animated comedy
+Madagascar           TYPE : Animated comedy
+Shrek                TYPE : Animated comedy
+Spongebob Movie      TYPE : Animated comedy
+Captain Underpants   TYPE : Animated comedy
+Inside Out           TYPE : Animated comedy
+How to train your dragon   TYPE : Animated comedy
+Bee movie            TYPE : Animated comedy
+Monster house        TYPE : Animated comedy
+Three idiots          TYPE : Indian comedy
+Hera Pheri (series)   TYPE : Indian comedy
+Andaaz Apna apna      TYPE : Indian comedy
+Golmaal (series)      TYPE : Indian comedy
+Dhol                  TYPE : Indian comedy
+Garam Masala          TYPE : Indian comedy
+Munna Bhai Mbbs       TYPE : Indian comedy
+Dhamal                TYPE : Indian comedy
+Spider Man (1-3)         TYPE : Action MARVEL    
+spider man (NWH)         TYPE : Action MARVEL
+Dr Strange               TYPE : Action MARVEL
+The Avengers (series) (mainly endgame and IW)       TYPE : Action MARVEL
+Iron Man                 TYPE : Action MARVEL
+Captain America (civil war mainly)           TYPE : Action MARVEL
+The X-men (series) (mainly days of future past, origins etc)       TYPE : Action MARVEL
+Deadpool        TYPE : Action MARVEL
+Guardians of the Galaxy      TYPE : Action MARVEL
+Black Panther       TYPE : Action MARVEL
+wakanda forever?    TYPE : Action MARVEL
+Man of Steel        TYPE : Action DC
+The Dark Knight     TYPE : Action DC
+Wonder Women        TYPE : Action DC
+The Justice League  TYPE : Action DC
+Aquaman             TYPE : Action DC
+Suicide Squad/Birds of Prey     TYPE : Action DC
+Mission Impossible (series)      TYPE : Action Thriller
+John Wick (Series)               TYPE : Action Thriller
+Jason Bourne (Series)            TYPE : Action Thriller
+James Bond (series)              TYPE : Action Thriller
+Top gun: Maverick               TYPE : Action Thriller
+Jack Reacher          TYPE : Action Thriller
+Pushpa                 TYPE : Pakistani-Indian Action
+Teefa in trouble       TYPE : Pakistani-Indian Action
+waar        TYPE : Pakistani-Indian Action
+The legend of Maula Jatt       TYPE : Pakistani-Indian Action
+Pushpa the rise        TYPE : Pakistani-Indian Action
+K.G.F              TYPE : Pakistani-Indian Action
+Heropanti          TYPE : Pakistani-Indian Action
+Interstellar       TYPE : Science Fiction
+Inception           TYPE : Science Fiction
+Tenet              TYPE : Science Fiction
+Transcendence         TYPE : Science Fiction
+The tomorrow war     TYPE : Scifi Thriller
+Jurassic Park        TYPE : Scifi Thriller
+The Martian          TYPE : Scifi Thriller
+Oblivion             TYPE : Scifi Thriller
+The Adam Project     TYPE : Scifi Thriller
+The Meg              TYPE : Scifi Thriller
+Harry Potter (series)       TYPE : Fantasy World
+Fantastic Beasts (series)           TYPE : Fantasy World
+The lord of the rings (series)       TYPE : Fantasy World
+The Hobbit (series)                   TYPE : Fantasy World
+Charlie and the Chocolate factory      TYPE : Fantasy World
+Pirates of the carribean         TYPE : Disney film
+The Jungle Cruise           TYPE : Disney film
+Aladdin               TYPE : Disney film
+Beauty and a Beast          TYPE : Disney film
+Frozen                TYPE : Disney Animated
+Tangled                TYPE : Disney Animated
+Wreck it Ralph          TYPE : Disney Animated
+Finding Nemo            TYPE : Disney Animated
+Snow White             TYPE : Disney Animated
+Cinderella              TYPE : Disney Animated
+The Lion King           TYPE : Disney Animated
+Toy Story (series)            TYPE : Disney Animated
+Titanic                TYPE : Sad Dramatic
+The notebook           TYPE : Sad Dramatic
+The pursuite of happinesss              TYPE : Sad Dramatic
+Forrest Gump              TYPE : Sad Dramatic
+Collateral beauty         TYPE : Sad Dramatic
+Fifty Shades of grey       TYPE : Adult Film
+365 days                  TYPE : Adult Film
+original sin            TYPE : Adult Film
+Cashback                 TYPE : Adult Film
+Road trip             TYPE : Adult Film
+The girl next door            TYPE : Adult Film
+
+
+
+
+
+
+
+
+
+

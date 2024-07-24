@@ -1,0 +1,120 @@
+Real-time strategy game set in the Middle Ages
+Players control one of 13 civilizations and build their empire from scratch
+Features a variety of military units, technologies, and buildings to research and construct
+Includes a campaign mode, multiplayer modes, and a map editor
+Graphics feature detailed environments, weather effects, and realistic animations
+"Age of Empires II: The Age of Kings"
+Build and defend your own base against enemy raids.
+Train and upgrade your troops to raid other players' bases.
+Join a clan and participate in clan wars with your teammates.
+Use spells and heroes to gain an advantage in battle.
+Collect resources and upgrade your structures to progress in the game.
+"Clash Of Clans"
+Command an army to take on the evil Blackguard.
+Build and upgrade your base to defend against enemy attacks.
+Use a variety of troops, including riflemen, grenadiers, and tanks.
+Explore the archipelago to discover new resources and enemies.
+Join a task force and work together with other players to complete missions.
+"Boom Beach"
+Collect and upgrade cards featuring your favorite Clash of Clans troops.
+Use your cards to attack and defend against other players in real-time battles.
+Earn trophies to progress through the game's various arenas.
+Join or create a clan and participate in clan wars.
+Use strategic card combinations and timing to gain an advantage over your opponents.
+"Clash Royal"
+Turn-based strategy game where players lead a civilization from ancient times to modern times
+Features a variety of civilizations, leaders, and victory conditions to choose from
+Includes a variety of military units, technologies, and buildings to research and construct
+Features a multiplayer mode, scenario mode, and modding support
+Graphics feature detailed environments, dynamic day/night cycles, and realistic animations
+"Civilization VI"
+Turn-based tactical game set in a dystopian future where aliens have taken over Earth
+Players lead a squad of soldiers in missions to take down the alien forces
+Features a variety of soldier classes, abilities, and equipment to customize and upgrade
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed environments, dynamic lighting, and realistic animations
+"XCOM 2"
+Real-time strategy game set in a futuristic sci-fi world
+Players control one of three factions: Terran, Zerg, or Protoss, each with unique strengths and weaknesses
+Features a variety of military units, buildings, and technologies to research and construct
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed environments, particle effects, and realistic animations
+"Starcraft II"
+Turn-based strategy game set in the Warhammer fantasy world
+Players control one of several factions and lead armies in real-time battles
+Features a variety of unit types, magic spells, and abilities to use in battle
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed environments, large-scale battles, and cinematic cutscenes
+"Total War: Warhammer II"
+Developed by NovaLogic in 1998, a chess game that can be played in three dimensions.
+The game features multiple modes, including traditional chess, progressive chess, and shuffle chess.
+Players can choose from a variety of different chess sets and boards, each with its own unique design and theme.
+The game also includes a tutorial mode for beginners to learn the rules and strategies of chess.
+allows players to customize their gameplay experience with different music and sound effects.
+"Chess 3d"
+Real-time strategy game set in World War II
+Players control one of several factions and lead their army in tactical battles
+Features a variety of unit types, terrain features, and weather conditions that affect gameplay
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed environments, destructible terrain, and realistic animations
+"Company of Heroes 2"
+Grand strategy game set in the Renaissance era
+Players control one of several nations and try to expand their power through diplomacy, trade, or war
+Features a variety of technologies, policies, and decisions to research and make
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed map of the world, historical events, and realistic animations
+"Europa Universalis IV"
+Real-time strategy game set in space
+Players control a fleet of spaceships and explore the galaxy, engaging in tactical battles
+Features a variety of ship types, weapon systems, and abilities to use in battle
+Includes a campaign mode, multiplayer modes, and modding support
+Graphics feature detailed environments, realistic space physics, and cinematic cutscenes
+"Homeworld Remastered Collection"
+a mobile strategy game developed by Moonton, the same company behind the popular game Mobile Legends: Bang Bang.
+The game features a unique gameplay style where players use chess pieces to battle against each other in real-time combat.
+Each piece has its own abilities and characteristics, allowing players to create their own strategies and playstyles.
+includes a variety of game modes, such as Classic mode, Turbo mode, and Survival mode, each with its own challenges and objectives.
+The game also features an extensive roster of heroes to choose from, each with their own unique abilities and strengths.
+"Magic Chess"
+Puzzle game with a sci-fi storyline and witty humor.
+Unique mechanics, such as the portal gun and the use of momentum.
+Co-op mode for two players with new puzzles and mechanics.
+Challenging puzzles that require critical thinking and problem-solving.
+Mod support with custom levels and new game modes.
+"Portal 2:"
+Puzzle game with cute and colorful graphics.
+Simple mechanics, cutting ropes to feed candy to Om Nom the monster.
+Variety of obstacles and power-ups to add to the challenge.
+Three-star rating system to encourage replayability and skill improvement.
+Multiple sequels and spin-offs with different themes and mechanics.
+"Cut the Rope:"
+Multiplayer game with a social deduction and deception theme.
+Players take on the role of crewmates or impostors on a spaceship.
+Tasks for crewmates to complete while avoiding being killed by the impostors.
+Impostors can sabotage the ship and frame other players to avoid detection.
+Discussions and voting to identify and eject the impostors before they kill everyone.
+"Among Us:"
+Casual physics-based puzzle game where players launch birds at structures to defeat pigs.
+Multiple levels with increasing difficulty and boss battles.
+Wide range of birds with unique abilities to unlock and use.
+Colorful and cartoonish graphics with humorous sound effects.
+Has spawned a successful franchise with numerous sequels, spin-offs, and merchandise.
+Angry Birds:
+Match-3 puzzle game where players swap candies to form groups of three or more of the same color.
+Has a large number of levels with various goals and obstacles.
+Power-ups and special candies can be earned or purchased to help clear difficult levels.
+Social features allow players to compete with friends or ask for help.
+Extremely popular mobile game that has been downloaded billions of times and generated millions in revenue for the developers.
+"Candy Crush:"
+Augmented reality mobile game that lets players catch and collect Pokémon in the real world.
+Features a wide variety of creatures to collect, each with unique strengths and weaknesses.
+Allows players to battle other trainers, take over gyms, and participate in events.
+Includes social features like trading, gifting, and team play.
+Encourages physical activity and exploration of real-world locations to discover new Pokémon.
+"Pokemon Go:"
+Turn-based strategy game set in a colorful, low-poly world.
+Features a variety of different tribes to play, each with unique abilities and units.
+Allows players to build cities, research technologies, and explore the world map.
+Offers single-player and multiplayer modes, including online and pass-and-play options.
+Includes regular updates with new tribes, features, and game modes.
+"Battle of Polytopia:"

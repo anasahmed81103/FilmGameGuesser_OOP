@@ -1,0 +1,72 @@
+is a soccer simulation video game developed by EA Sports, released in 2021.
+The game features licensed teams and players from around the world, with realistic gameplay and physics simulation to create an immersive soccer experience.
+includes a range of game modes, including Career Mode, Ultimate Team, Volta Football, and Pro Clubs, with various challenges and customization options.
+The game has a strong emphasis on realism, with improved artificial intelligence and animation technology to create more lifelike player movements and behaviors.
+features stunning graphics and visual effects, with realistic player models and detailed environments that add to the immersive soccer experience.
+"Fifa 23"
+a basketball simulation video game developed by Visual Concepts and published by 2K Sports, released in 2020.
+The game features licensed teams and players from the National Basketball Association (NBA), with realistic gameplay and physics simulation 
+includes a range of game modes, including MyCareer, MyTeam, MyLeague, and online multiplayer modes, with various challenges and customization options.
+The game has a strong emphasis on player customization, allowing players to create their own basketball players and teams with range of customization options.
+features stunning graphics and visual effects, with realistic player models and detailed arenas that add to the immersive basketball experience.
+"NBA 2k22"
+is a professional wrestling video game developed by Visual Concepts and published by 2K Sports, released in 2020.
+The game features licensed WWE wrestlers and events, with realistic gameplay and physics simulation to create an immersive wrestling experience.
+includes a range of game modes, including MyCareer, Universe Mode, and online multiplayer modes, with various challenges and customization options.
+The game has a strong emphasis on player customization, allowing players to create their own wrestlers with a wide range of customization options
+features stunning graphics and visual effects, with realistic character models and detailed arenas that add to the immersive wrestling experience.
+"WWE 2k23"
+Season Update is a soccer simulation video game developed by PES Productions and published by Konami, released in 2020.
+The game features licensed teams and players from various soccer leagues around the world, with realistic gameplay and physics simulation 
+includes a range of game modes, including Master League, Matchday, and online multiplayer modes, with various challenges and customization options.
+The game has a strong emphasis on player control and strategic play, with a variety of dribbling, shooting, and passing techniques
+features stunning graphics and visual effects, with realistic player models and detailed stadiums that add to the immersive soccer experience.
+"PES 23"
+is a vehicular soccer video game developed and published by Psyonix, released in 2015.
+The game features online multiplayer matches where players control rocket-powered cars and play soccer with a large ball in an enclosed arena.
+includes a variety of game modes, including 1v1, 2v2, 3v3, and 4v4 matches, as well as a variety of different arenas and customizations options.
+The game has a strong emphasis on fast-paced action and strategic play, with a variety of cars and power-ups 
+features colorful graphics and visual effects, with realistic physics simulation and unique car designs that add to the fun and excitement of the game.
+"Rocket League"
+is an American football video game series developed by EA Sports and released annually since 1988.
+The game features licensed NFL teams and players, with realistic gameplay and physics simulation to create an immersive football experience.
+includes a range of game modes, including Franchise Mode, Ultimate Team, and online multiplayer modes, with various challenges and customization options.
+The game has a strong emphasis on player control and strategic play, with a variety of passing, running, and defensive techniques 
+features stunning graphics and visual effects, with realistic player models and detailed stadiums that add to the immersive football experience.
+"Maden NFL"
+is an upcoming cricket video game developed and published by Big Ant Studios, set to be released in late 2022.
+The game features licensed teams and players from international cricket, with realistic gameplay and physics simulation to create an immersive cricket experience.
+includes a range of game modes, including Career Mode, Tournaments, and online multiplayer modes, with various challenges and customization options.
+The game has a strong emphasis on player control and strategic play, with a variety of batting, bowling, and fielding techniques 
+features stunning graphics and visual effects, with realistic player models and detailed stadiums that add to the immersive cricket experience.
+"Cricket 22"
+is a video game console released by Nintendo in 2012, serving as a successor to the Wii.
+The console features a unique tablet-like controller called the Wii U GamePad, which includes a touchscreen and other interactive elements.
+supports a variety of popular games from franchises like Mario, Zelda, and Smash Bros.
+The console also has backward compatibility with games and accessories.
+Despite some innovative features, the struggled commercially and was eventually discontinued in 2017.
+"Wii U"
+Motion-controlled gameplay using the Wii Remote and Nunchuk.
+Family-friendly games with a focus on social play.
+A range of genres available, including sports, party, racing, and adventure.
+Virtual Console feature for playing classic games from older Nintendo consoles.
+Innovative games like Wii Fit, which combined exercise with gaming.
+"Wii Game"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"MLB The show"
+"MVP Baseball"
+"UFC EA SPORTS"

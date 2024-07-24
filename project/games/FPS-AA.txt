@@ -1,0 +1,84 @@
+Competitive team-based first-person shooter
+Objective-based gameplay with bomb defusal and hostage rescue
+In-game economy system for buying weapons and gear
+Tactical gameplay with a focus on skill and teamwork
+Large esports scene with professional leagues and tournaments
+"Counter Strike:Global Offensive"
+Tactical 5v5 shooter with hero-based agents
+Unique abilities and ultimates for each agent
+Objective-based gameplay with bomb defusal and spike planting
+Precision shooting and movement mechanics
+Anti-cheat system for fair gameplay
+"Valorant"
+Tactical team-based shooter with destructible environments
+Unique operators with special gadgets and abilities
+Objective-based gameplay with bomb defusal, hostage rescue, and area control
+Dynamic gameplay with extensive map destruction
+Large esports scene with professional leagues and tournaments such as 6 invitational.
+"Rainbow Six Siege"
+Hero-based team shooter with diverse characters and abilities
+Objective-based gameplay with payload delivery and control point capture
+Team-based gameplay with a focus on team composition and strategy
+Vibrant and colorful visuals with unique character designs
+Competitive mode with skill-based matchmaking and ranking system
+"Overwatch"
+Fast-paced 5v5 gameplay with customizable loadouts and killstreaks
+Objective-based gameplay with modes like Search and Destroy and Domination
+Realistic graphics and immersive sound design
+Large multiplayer community with cross-platform play
+Popular battle royale mode called Warzone
+"Call of Duty: Modern Warfare"
+Cooperative first-person shooter set in a zombie apocalypse with multiple zombies such as tank.
+Story-driven campaign with five unique campaigns to play through.
+Gameplay focuses on teamwork, communication, and strategic use of weapons and resources with 4 players
+AI Director system dynamically changes gameplay based on player performance.
+Features a "Versus" mode where players can play as both humans and special infected zombies.
+"Left 4 Dead :"
+Sequel , with improved graphics and gameplay mechanics.
+New survivors and special infected zombies, as well as new weapons and items.
+Features a new campaign set in the American South, as well as remastered versions of the original campaigns.
+Introduces a "Scavenge" mode where players must collect gas cans to fuel a generator.
+Includes a "Mutations" mode that allows for custom game modes and rule sets.
+"Left 4 Dead 2:"
+Large-scale 5v5 warfare with up to 64 players
+Multiple classes and vehicles for diverse gameplay
+Objective-based gameplay with modes like Conquest and Breakthrough
+Detailed and realistic graphics and sound design
+Extensive customization options for weapons and gear
+"Battlefield V"
+Class-based 5v5 gameplay with distinct roles and abilities
+Objective-based gameplay with modes like Capture the Flag and King of the Hill
+Cartoony art style and humorous characters
+Large community with user-generated content
+Free-to-play with microtransactions for cosmetics
+"Team Fortress 2"
+Fast-paced 5v5 gameplay with futuristic technology and mobility
+Objective-based gameplay with modes like Attrition and Hardpoint
+Unique gameplay mechanics like wall-running and giant mechs
+Detailed and immersive single-player campaign
+Popular among speedrunners and content creators
+"Titanfall 2"
+Hero-based 5v5 shooter with customizable loadouts and abilities
+Objective-based gameplay with modes like Siege and Payload
+Vibrant and colorful art style with diverse character designs
+Free-to-play with microtransactions for cosmetics
+Large community with cross-platform play
+"Paladins"
+Fast-paced 5v5 gameplay with objective-based modes
+Unique mercenary characters with diverse abilities
+Skill-based gameplay with a focus on team composition and coordination
+Realistic and gritty graphics with detailed environments
+Free-to-play with microtransactions for cosmetics and in-game currency
+"Dirty Bomb"
+Competitive team-based shooter with various modes
+Realistic graphics and sound effects
+Large selection of weapons and skins
+F2P game with microtransactions
+Small community but active player base
+"Black Squad"
+Futuristic FPS with various game modes
+Dynamic graphics with diverse environments
+Wide selection of weapons and gear
+F2P game with microtransactions
+Small community but active player base
+"Ironsight"

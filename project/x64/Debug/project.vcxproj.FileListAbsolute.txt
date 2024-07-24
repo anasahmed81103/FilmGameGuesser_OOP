@@ -1,0 +1,3 @@
+C:\Users\za488\OneDrive\Desktop\k224154_k224502_k224563\New folder\project\project\x64\Debug\project.exe
+C:\Users\za488\OneDrive\Desktop\k224154_k224502_k224563\project\project\x64\Debug\project.exe
+D:\anas\uni\semester 2\OOP Lab\k224154_k224502_k224563\project\project\x64\Debug\project.exe
